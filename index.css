@@ -1,0 +1,52 @@
+#banner-image{
+	padding:75px 0px 30px 0px;
+	background:url(image/intro-bg_1.jpg);
+	text-align:center;
+	height:100%;
+	width:100%;
+	background-repeat:no-repeat center;
+	color:#fdfdfd;
+	background-size:cover;
+}
+.inner-bi
+{
+	padding-top=12%;
+	width : 80%;
+	margin:auto;
+	
+}
+.bcontent
+{    position:relative;
+	padding-top:6%;
+	padding-bottom:6%;
+	overflow:hidden;
+	margin-top:6%;
+	margin-bottom:12%;
+    background-color:rgba(0,0,0,0.65);
+    max-width:660px;
+line-height:14px;
+	word-spacing:2px;
+    font-size:15px;
+	font-family:cursive;
+}
+.decor
+{   
+    background-color:#000;
+	color:#FFF;
+	text-align:center;
+	width:100%;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.caption
+{
+	text-align:center;
+	font-family:cursive;
+}
+.thumbnail
+{
+	margin-top:2px;
+	margin-bottom:2px;
+	background-color:#C0C0C0;
+	
+}

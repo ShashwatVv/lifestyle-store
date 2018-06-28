@@ -1,0 +1,39 @@
+.decor{
+	margin-top:10px;
+	padding-top:2px;
+	}
+.para{
+	text-align:center;
+	}
+.decorf
+{
+	background-color:#000;
+	color:#FFF;
+	text-align:center;
+	width:100%;
+	padding-top:10px;
+	margin-top:100px;
+	padding-bottom:10px;
+}
+.bd
+{
+	border:5px solid transparent;
+	padding:15px;
+	border-image:url(image/br.jpg) 30% round;
+}
+.bg
+{
+	padding:75px 0px 30px 0px;
+	background:url(image/cu.jpg);
+	height:100%;
+	width:100%;
+	background-repeat:no-repeat center;
+	color:#fdfdfd;
+	background-size:cover;
+	color:black;
+	font-family:cursive;
+}
+body
+{
+	background-color:rgba(180,180,180,0.1);
+}
